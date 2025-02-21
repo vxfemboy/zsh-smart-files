@@ -20,14 +20,14 @@ A zsh plugin that enhances command-line operations by providing visual feedback 
 ### Manual
 
 ```bash
-git clone https://github.com/vxfemboy/smart-files.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/smart-files
+git clone https://github.com/vxfemboy/zsh-smart-files.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/smart-files
 ```
 
 ### Oh My Zsh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vxfemboy/smart-files.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/smart-files
+git clone https://github.com/vxfemboy/zsh-smart-files.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/smart-files
 ```
 
 2. Add smart-files to your plugin list in ~/.zshrc:
